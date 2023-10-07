@@ -554,6 +554,7 @@ PRODUCT_PACKAGES += \
     com.qualcomm.qti.uceservice@2.1 \
     com.qualcomm.qti.uceservice@2.2 \
     com.qualcomm.qti.uceservice@2.3 \
+    deviceInfoServiceModule \
     fingerprint.fpc.sm6150 \
     vendor.qti.gnss@4.0-impl \
     vendor.qti.hardware.alarm@1.0-impl \
