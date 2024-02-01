@@ -750,6 +750,9 @@ PRODUCT_PACKAGES += \
     libssc \
     libssc_default_listener \
     libssccalapi \
+    libsecureui \
+    libsecureui_svcsock \
+    libspl \
     libssd \
     libswregistrationalgo \
     libswvdec \
